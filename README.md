@@ -14,7 +14,7 @@
 <h3 align="center">MineSweeper</h3>
 
   <p align="center">
-    This is a minesweeper game which is developed using Object Oriented Programming concepts. It use's python tkinter library.
+    This is a minesweeper game developed in python using Object Oriented Programming concepts. It use's python tkinter library.
     <br />
     <a href="https://github.com/manupranav/minesweeper"><strong>Explore the docs »</strong></a>
     <br />
