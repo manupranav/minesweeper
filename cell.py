@@ -34,9 +34,9 @@ class Cell:
         lbl = Label(
             location,
             bg='black',
-            fg='white',
+            fg='green',
             text=f"Cells Left:{Cell.cell_count}",
-            font=("", 30)
+            font=("System", 30)
         )
         Cell.cell_count_label_object = lbl
 

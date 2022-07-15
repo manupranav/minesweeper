@@ -4,15 +4,12 @@ from cell import Cell
 import settings
 import utils
 
-root = Tk()  #Start the window
-
+root = Tk()
+# Override the settings of the window
 root.configure(bg="black")
 root.geometry(f"{settings.WIDTH}x{settings.HEIGHT}")
 root.title("Minesweeper Game")
 root.resizable(False, False)
-
-
-
 
 top_frame = Frame(root, bg="black", width=settings.WIDTH, height=utils.height_pt(25))
 top_frame.place(x=0, y=0)
@@ -20,9 +17,9 @@ top_frame.place(x=0, y=0)
 game_title = Label(
     top_frame,
     bg='black',
-    fg='white',
+    fg='red',
     text='MineSweeper',
-    font=('',45)
+    font=('Fixedsys',45)
 )
 
 game_title.place(
@@ -58,5 +55,5 @@ Cell.cell_count_label_object.place(
 
 Cell.randomize_mines()
 
-
+# Run the window
 root.mainloop()
