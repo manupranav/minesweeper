@@ -37,6 +37,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#screenshot">Screenshot</a></li>
       </ul>
     </li>
     <li>
@@ -46,7 +47,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#screenshot">Screenshot</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -66,6 +66,22 @@
 ### Built With
 
 * [![Python][Python.org]][Python-url]
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- SCREENSHOTS -->
+## Screenshots
+
+**Start**
+
+
+[![Minesweeper start][product-start]](https://github.com/manupranav/minesweeper/tree/main/media/start.png)
+
+**Game Over**
+
+[![Minesweeper gameover][product-gameover]](https://github.com/manupranav/minesweeper/tree/main/media/gameover.png)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -98,24 +114,6 @@ python main.py
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
-## Screenshot
-
-**Start**
-
-
-[![Minesweeper start][product-start]](https://github.com/manupranav/minesweeper/tree/main/media/start.png)
-
-**Game Over**
-
-[![Minesweeper gameover][product-gameover]](https://github.com/manupranav/minesweeper/tree/main/media/gameover.png)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- LICENSE -->
 ## License
 
@@ -143,5 +141,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [product-start]: media/start.png
 [product-gameover]: media/gameover.png
 [product-video]: media/demo.gif
-[Python.com]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[Python.org]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
