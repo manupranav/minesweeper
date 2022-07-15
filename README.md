@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/manupranav/minesweeper/tree/main/media/demo.webm)
+[![Product Name Screen Shot][product-video]](https://github.com/manupranav/minesweeper/tree/main/media/demo.webm)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -69,7 +69,7 @@
 
 ### Built With
 
-* [![Python][python.org]][Python-url]
+* [![Python][Python.org]][Python-url]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -164,5 +164,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [product-start]: media/start.png
 [product-gameover]: media/gameover.png
 [product-video]: media/demo.webm
-[Python]: https://www.python.org/favicon.ico
+[Python.com]: https://www.python.org/favicon.ico
 [Python-url]: https://www.python.org/
