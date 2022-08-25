@@ -10,11 +10,12 @@
 
 <!-- PROJECT LOGO -->
 <br />
+<h2>
 <div align="center">
   <a href="https://github.com/manupranav/minesweeper">
-    <img src="media/logo.png" alt="Logo" width="80" height="80">
+    <img src="media/logo.png" alt="Logo" width="200" height="200">
   </a>
-
+</h2>
 <h2 align="center">Minesweeper</h2>
 
   <p align="center">
