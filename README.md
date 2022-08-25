@@ -13,7 +13,7 @@
 <h2>
 <div align="center">
   <a href="https://github.com/manupranav/minesweeper">
-    <img src="media/logo.png" alt="Logo" width="200" height="200">
+    <img src="media/logo.png" alt="Logo" width="120" height="120">
   </a>
 </h2>
 <h2 align="center">Minesweeper</h2>
